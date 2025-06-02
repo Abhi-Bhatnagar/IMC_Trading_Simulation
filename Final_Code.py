@@ -5,8 +5,8 @@ from IPython.display import clear_output
 TEST_EXCHANGE = "https://test-cmi-exchange.imclaunchpad.com"
 REAL_EXCHANGE = "https://cmi-exchange.imclaunchpad.com"
 
-USERNAME = "imc_group9"  # TODO: Change to your username
-PASSWORD = "12345678"    # TODO: Change to your password
+USERNAME = ""  # TODO: Change to your username
+PASSWORD = ""    # TODO: Change to your password
 EXCHANGE = TEST_EXCHANGE  # Change to REAL_EXCHANGE when ready
 
 # Flags for printing
