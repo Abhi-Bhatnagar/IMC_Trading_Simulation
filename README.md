@@ -88,15 +88,6 @@ In practice, salad arbitrage **reduced profitability** — likely because it com
 
 ---
 
-## 📦 Repository Contents
-
-- `bot.py` → Main bot logic.
-- `README.md` → This file.
-- `requirements.txt` → Libraries to run the bot (if applicable).
-- `student_bot.py` → Provided trading interface.
-
----
-
 ## 🌍 Final Thoughts
 
 This project was an **awesome deep dive** into live trading systems, combining:
